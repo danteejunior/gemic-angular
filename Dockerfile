@@ -1,4 +1,4 @@
-FROM openshift/httpd
+FROM rhel7/httpd-24
 
 USER root
 
