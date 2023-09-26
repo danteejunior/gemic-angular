@@ -1,4 +1,4 @@
-FROM registry.redhat.io/rhel8/httpd-24@sha256:93b364062a5a0e058d6ad160ea395c42edb83b65866ed01400f7b4952c6ff115
+FROM rhel8/httpd-24
 
 USER root
 
