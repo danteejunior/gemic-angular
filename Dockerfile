@@ -1,4 +1,4 @@
-FROM default-route-openshift-image-registry.apps.djunior.tamlab.rdu2.redhat.com/teste/httpd-24-rhel7
+FROM registry.redhat.io/rhscl/httpd-24-rhel7:2.4-217
 
 USER root
 
