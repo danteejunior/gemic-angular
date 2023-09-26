@@ -1,4 +1,4 @@
-FROM rhel7/httpd-24
+FROM registry.redhat.io/rhel8/httpd-24:1-284
 
 USER root
 
